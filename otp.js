@@ -1,4 +1,4 @@
-var characters="achgff467UJMBD@67^&$";
+var characters="achgff467UJMBD@67^&$*";
 var password=" ";
 var length=prompt("Enter the length of the password");
 alert("Answer the below question with yes or no");
